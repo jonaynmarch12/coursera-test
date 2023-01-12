@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    background-color: gray;
+    display: block;
+}
+
+.spclchar-list1 > span{
+    color: red;
+}
+
+div span{
+    color: blue;
+}
