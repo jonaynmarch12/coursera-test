@@ -1,0 +1,24 @@
+.spclchar-list1 > span, .spclchar-list2 > span{
+    display: block;
+    width: 600px;
+    margin-left: 100px;
+    border: 50px solid #16003B;
+}    
+
+.spclchar-list1  span{
+    color: #816797;
+    background-color: #1B2430;
+}
+
+.spclchar-list2  span{
+    color: #D6D5A8;
+    background-color: #51557E;
+}
+
+.list1{
+    margin-bottom: 40px;
+}
+
+.list2{
+    margin-top: 20px;
+}

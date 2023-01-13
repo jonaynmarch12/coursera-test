@@ -1,3 +1,7 @@
+*{
+    box-sizing: border-box;
+}
+
 body{
     margin: 0;
     padding: 0;
@@ -5,13 +9,4 @@ body{
 
 a {
     background-color: gray;
-    display: block;
-}
-
-.spclchar-list1 > span{
-    color: red;
-}
-
-div span{
-    color: blue;
 }
