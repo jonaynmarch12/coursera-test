@@ -1,0 +1,11 @@
+ul li{
+    list-style: none;
+    float: left;
+    margin-right: 20px;
+    font-size: 125%;
+}
+
+ul li:nth-child(5){
+    float: right;
+    margin-right: 50px;
+}
