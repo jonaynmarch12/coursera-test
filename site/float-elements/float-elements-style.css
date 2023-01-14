@@ -1,3 +1,13 @@
+/*Navigation Bar*/
+nav{
+    background-color: rgb(125, 255, 255);
+    height: 50px
+}
+
+ul{
+    padding: 15px;
+}
+
 ul li{
     list-style: none;
     float: left;
@@ -7,5 +17,30 @@ ul li{
 
 ul li:nth-child(5){
     float: right;
-    margin-right: 50px;
+    margin-right: 20px;
+}
+
+ul li > a{
+    text-decoration: none;
+    color: #000;
+}
+
+a:hover{
+    color: rgb(29, 29, 29);
+    background: rgb(255, 216, 166);
+}
+
+/*Hero*/
+.hero{
+    padding: 50px
+}
+
+.left-side-hero{
+    float: left;
+    width: 50%
+}
+
+.right-side-hero{
+    float: right;
+    width: 50%
 }
