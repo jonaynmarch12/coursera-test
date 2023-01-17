@@ -1,0 +1,28 @@
+h2{
+    margin: 50px;
+}
+
+p{
+    margin: 50px;
+    font-size: 150%;
+}
+
+/*Relative Positioning*/
+.square-lg{
+    height: 250px;
+    width: 250px;
+    background-color: #ffaa69;
+    margin: 50px;
+    position: relative;
+    top: 200px;
+    left: 200px;
+}
+
+.square-sm{
+    height: 150px;
+    width: 150px;
+    background-color: #ffaa69;
+    margin: 50px;
+}
+
+/**/
